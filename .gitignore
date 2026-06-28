@@ -1,0 +1,5 @@
+.env
+key.txt
+prices.csv
+__pycache__/
+*.pyc
